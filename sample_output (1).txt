@@ -1,0 +1,29 @@
+Welcome to ABC Bank
+Enter your name: alex
+Enter your account number: 75758933
+
+Choose an option:
+1. Deposit
+2. Withdraw
+3. View Account Info
+4. Exit
+Enter your choice (1-4): 1
+Enter amount to deposit: ₹10000
+₹10000.0 added successfully.
+
+Choose an option:
+1. Deposit
+2. Withdraw
+3. View Account Info
+4. Exit
+Enter your choice (1-4): 2
+Enter amount to withdraw: ₹100
+₹100.0 withdrawn successfully.
+
+Choose an option:
+1. Deposit
+2. Withdraw
+3. View Account Info
+4. Exit
+Enter your choice (1-4): 4
+Thank you for using ABC Bank!
