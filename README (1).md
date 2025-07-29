@@ -8,7 +8,6 @@ This is a simple Bank Account Management System implemented using Core Python an
 
 This mini-project simulates basic bank account operations like:
 
-- Creating an account
 - Depositing money
 - Withdrawing money
 - Checking balance
@@ -38,7 +37,6 @@ python bank_system.py
 ```
 
 3. Follow the menu options:
-   - Create account
    - Deposit money
    - Withdraw money
    - View balance
@@ -65,7 +63,7 @@ See `sample_output.txt` for example input/output interaction.
 ## 👨‍💻 Author
 
 - Your Name
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub:https://github.com/IV1777
 
 ---
 
